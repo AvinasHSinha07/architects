@@ -184,21 +184,11 @@ padding: 30px;
     margin-top: 10px;
 }
 
-
-
-
-
-
-
-
-
-
 .sponsors{
     padding: 25px;
     text-align: center;
     margin: 30px 0;
 }
-
 
 .sponsors-img-container{
     display: flex;
@@ -242,13 +232,6 @@ padding: 30px;
 border: 1px solid #FF900E;
 text-align: center;
 }
-
-
-
-
-
-
-
 
 footer{
     border-radius: 8px;
@@ -302,6 +285,13 @@ footer{
     }
     .feature-content{
         margin-left: 10px;
+    }
+
+    .btn-primary{
+        height: 80px;
+    }
+    footer{
+        height: 5vh;
     }
 }
 
@@ -361,6 +351,12 @@ footer{
     .feature-content{
        margin-left: 5px;
     }
+    .btn-primary{
+        height: 80px;
+    }
 
+    footer{
+        height: 5vh;
+    }
 
 }
